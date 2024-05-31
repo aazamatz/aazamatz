@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Azamat
+
+## 🚀 My Projects
+
+- [Project 1]: Description ((https://github.com/aazamata/a))
+
 <!--
 **aazamatz/aazamatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
